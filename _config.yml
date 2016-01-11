@@ -1,7 +1,7 @@
 name: Yigit K. Guc
 favicon: null
-layout_spectrum: 0.9695196191314608
-typography_spectrum: 0.07989604538306594
+layout_spectrum: 0.88751
+typography_spectrum: 0.74434
 title: 'An Artist working on audio & visual arts'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.19202699465677142
-  lightness: 0.7416447557043284
-  saturation: 0.00806116103194654
-  rhythmicContrast: 0.4257856239564717
+  brandStrength: 0.5625
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
